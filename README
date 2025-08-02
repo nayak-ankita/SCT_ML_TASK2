@@ -1,0 +1,17 @@
+# 🛒 Customer Segmentation – K-Means Clustering
+
+This project implements **K-Means Clustering** to group retail store customers based on:
+- Annual Income
+- Spending Score
+
+## 🚀 Features
+- Data preprocessing
+- Elbow method to find optimal clusters
+- Cluster visualization
+- Helps in targeted marketing strategies
+
+## 📌 Technologies Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
